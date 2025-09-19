@@ -457,19 +457,3 @@ button:hover{
     gap: 30px;
     padding-bottom: 60px;
 }
-
-@media (max-width: 768px) {
-#product img{
-   
-}
-    
-  }
-    menu {
-    flex: 1 1 45%; /* 2 ช่องต่อแถวบน tablet */
-  }
-
-@media (max-width: 480px) {
-  menu {
-    flex: 1 1 100%; /* 1 ช่องต่อแถวบนมือถือ */
-  }
-}
